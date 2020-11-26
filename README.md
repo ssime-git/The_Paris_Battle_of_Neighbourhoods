@@ -3,7 +3,7 @@
 
 **outputs:**
 * The IPython file of the analysis describing the web pages scraping, the data exploration and the used machine learning algorithm (unsupervised KMeans). Note that for a better visualization you can use https://nbviewer.jupyter.org/
-* The analysis report
+* The analysis report (in PDF)
+* A blogpost: https://medium.com/@sebastien.sime.pro/finding-a-restaurant-best-place-in-paris-320f17ea19ad
 
 All the used links are included in the Ipython file and in the report.
-A blog post have also been realized.
